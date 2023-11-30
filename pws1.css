@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(purpleb.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url("purpleb.jpg");
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -168,7 +168,7 @@ ul li a:hover{
     left: 870px;
     border-radius: 10px;
     padding: 25px;
-    background-image: url(jean.jpg);
+    background-image: url("jean.jpg");
     background-size: 348px;
 
 }
